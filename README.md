@@ -1,5 +1,3 @@
-![bicos](https://user-images.githubusercontent.com/80182616/187046697-997a5e59-aa52-4948-a709-353df9f188c7.png)
-
 # Bicos
 
 **by Antedeguemon company**
