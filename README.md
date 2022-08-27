@@ -2,4 +2,4 @@
 
 **by Antedeguemon company**
 
-[WIKI](https://github.com/gabrielms201/Bicos/wiki)
+[nossa wiki](https://github.com/gabrielms201/Bicos/wiki)
