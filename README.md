@@ -9,5 +9,5 @@
 |------------------------------------------|------------|
 |                                          |            |
 |                                          |            |
-|                                          |            |
+| Paulo Henrique Braga Cechinel            |  32151128  |
 | Ricardo Gabriel Marques dos Santos Ruiz  |  31234908  |
